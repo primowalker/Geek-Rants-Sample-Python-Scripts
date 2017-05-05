@@ -16,5 +16,5 @@ template_extension = raw_input('Enter the extension: ')
 j=0
 os.chdir(path)
 for i in os.listdir(path):
-	os.rename(i,template_name+ str(j)+template_extension')
+	os.rename('i,template_name+ str(j)+template_extension')
 	j+=1
